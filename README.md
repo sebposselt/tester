@@ -1,3 +1,2 @@
 # tester
-dette er en test
-test2
+Hold kæft det her er noget lort!
